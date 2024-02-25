@@ -1,7 +1,11 @@
-<h1 align="center" id="title">space_explorers (back_end version)</h1>
+<h1 align="center" id="title">Space Explorer</h1>
 
 <p align="center"><img src="https://github.com/mernaatef28/space-explorers-/blob/main/IMG/screenshots/home.png?raw=true" alt="project-image"></p>
-<p id="description">I coded the back end to this website using php : <br>1) Website database file<br> 2)  Admin interface <br> 3) admin controlpanel <br> 4) Login user interface’s backend</p>
+<p id="description">A proof of concept educational website for learning about space by simulating a space trip booking website
+
+has basic backend functionality such as accounts, database for tickets and admin account and privileges 
+
+this was worked on by 2 other people 
 
 <h2>Project Screenshots:</h2>
 <img src="https://github.com/mernaatef28/space-explorers-/blob/main/IMG/screenshots/loginasadmin.png?raw=true" alt="project-screenshot" width="" height="">
