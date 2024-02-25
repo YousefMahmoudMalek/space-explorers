@@ -1,6 +1,6 @@
 <h1 align="center" id="title">Space Explorer</h1>
 
-<p align="center"><img src="https://github.com/mernaatef28/space-explorers-/blob/main/IMG/screenshots/home.png?raw=true" alt="project-image"></p>
+<p align="center"><img src="SpaceExplorers/IMG/screenshots/home.png?raw=true" alt="project-image"></p>
 <p id="description">A proof of concept educational website for learning about space by simulating a space trip booking website
 
 has basic backend functionality such as accounts, database for tickets and admin account and privileges 
@@ -8,19 +8,19 @@ has basic backend functionality such as accounts, database for tickets and admin
 this was worked on by 2 other people 
 
 <h2>Project Screenshots:</h2>
-<img src="https://github.com/mernaatef28/space-explorers-/blob/main/IMG/screenshots/loginasadmin.png?raw=true" alt="project-screenshot" width="" height="">
+<img src="SpaceExplorers/IMG/screenshots/loginasadmin.png?raw=true" alt="project-screenshot" width="" height="">
 
-<img src="https://github.com/mernaatef28/space-explorers-/blob/main/IMG/screenshots/Screenshot%202024-01-17%20215505.png?raw=true" alt="project-screenshot" width="" height="">
+<img src="SpaceExplorers/IMG/screenshots/Screenshot 2024-01-17 215505.png?raw=true" alt="project-screenshot" width="" height="">
 
-<img src="https://github.com/mernaatef28/space-explorers-/blob/main/IMG/screenshots/editcurrentusers.png?raw=true" alt="project-screenshot" width="" height="">
+<img src="SpaceExplorers/IMG/screenshots/editcurrentusers.png?raw=true" alt="project-screenshot" width="" height="">
 
-<img src="https://github.com/mernaatef28/space-explorers-/blob/main/IMG/screenshots/addatrip.png?raw=true" alt="project-screenshot" width="" height="">
+<img src="SpaceExplorers/IMG/screenshots/addatrip.png?raw=true" alt="project-screenshot" width="" height="">
 
 
 
 <h2>🛠️ Installation Steps:</h2>
 
-1. As a prerequisite you need to download [XAMPP](https://www.apachefriends.org/), turn both the **apache** and **MySQL** modules on and make sure to remeber the installation directory
+1. As a prerequisite you need to download [XAMPP](https://www.apachefriends.org/), turn both the **apache** and **MySQL** modules on and make sure to remember the installation directory
 
 2. Download the VR videos from this link :
 
@@ -41,4 +41,4 @@ C:\xampp\htdocs
 
 7. Click on the newly added database on the side panel then go to **import** and choose the `DatabaseScript.sql` file from the main dirctory, then click import
 
-8. The website should be working correctly on your machine new, you can start browsing the website by going to `http://localhost/SpaceExplorers/`
+8. The website should be working correctly on your machine now, you can start browsing the website by going to `http://localhost/SpaceExplorers/`
